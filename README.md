@@ -1,4 +1,3 @@
 # DIG4714-Lab-1
 A repository for DIG4714 Intermediate Game Development class lab 1.
-development 2.
-Now in Development, this is Feature A. 
+### Now here Feature A has been merged back into Development.
